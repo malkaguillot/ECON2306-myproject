@@ -9,3 +9,4 @@ This is the folder of my 2023 class project.
 
 List of github handle names: https://mensuel.framapad.org/p/econ2306-a0m7?lang=fr
 test
+ADSHOW
